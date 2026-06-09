@@ -1,35 +1,79 @@
 Hackathon team repository for AlgoViz - [hackindia-team:vibe-coding-hackathon-2026:algoviz]
+# OmniDSA 🧠
 
-How can we help beginner programmers truly understand Data Structures and Algorithms, when abstract concepts like pointers and linked lists are impossible to visualize through static textbooks, and learning resources are scattered across too many platforms to follow consistently?
+> How can we help beginner programmers truly understand Data Structures 
+> and Algorithms, when abstract concepts like pointers and linked lists 
+> are impossible to visualize through static textbooks, and learning 
+> resources are scattered across too many platforms to follow consistently?
 
-🔗LINK TO OmniDSA :https://omnidsabyalgoviz.lovable.app
+**OmniDSA** solves this by bringing everything into one place — 
+interactive visualizations, curated resources, AI guidance, and 
+gamified practice.
 
-FEATURES:-
+🔗 **Live Site:** https://omnidsabyalgoviz.lovable.app
 
-Interactive Visuals — Watch 23 DSA concepts animate step by step including arrays, stacks, queues, linked lists, trees, graphs and more
-Progress Tracker — Mark concepts as done, track your progress with a live progress bar, synced to the cloud when logged in
-Full DSA Roadmap — 33 concepts organised into 4 difficulty levels: Beginner, Intermediate, Advanced and Expert
-Search Bar — Instantly filter concepts by name
-Practice Code — Write DSA solutions, get instant AI feedback scored out of 10 and earn XP points and badges
-OmniBot — A built-in chatbot that answers basic DSA questions and guides users through the website
-Authentication — Login with Google or email/password, progress syncs across devices via Firebase
-Abdul Bari Lectures — Every concept page links to the specific Abdul Bari YouTube lecture for that topic
-Codolio Integration — Track your DSA question progress on Codolio
-Gamification — Earn XP, unlock badges and build streaks on the Practice page
-Tech Stack o React + TanStack Router : Frontend framework and routing o Tailwind CSS : Styling and responsive design o Framer Motion : Animations and transitions o D3.js : DSA concept visualizations o Firebase Auth : Google and email login o Firebase Firestore : Cloud progress saving o Claude API : OmniBot AI chatbot o Lovable : Vibe coding and deployment o GitHub : Version control
+---
 
-PAGES DISPLAYED: Homepage with progress bar, search bar, resource cards , youtube link and codeoilio tracker-sheet Practice where you can type the question and your code to get feedaback in a gamified manner Admin dashboard with user stats,progress overview and website stats Individual concept pages with visualizer, theory and LeetCode problems
+## ✨ Features
 
-How to Use
+- 🎮 **Interactive Visuals** — 23 DSA concepts animated step by step 
+  (arrays, stacks, queues, linked lists, trees, graphs and more)
+- 📊 **Progress Tracker** — Mark concepts as done, live progress bar, 
+  synced to the cloud when logged in
+- 🗺️ **Full DSA Roadmap** — 33 concepts across 4 levels: Beginner, 
+  Intermediate, Advanced and Expert
+- 🔍 **Search Bar** — Instantly filter concepts by name
+- 💻 **Practice Code** — Write solutions, get AI feedback scored out 
+  of 10, earn XP and badges
+- 🤖 **OmniBot** — Built-in chatbot for DSA doubts and site guidance
+- 🔐 **Authentication** — Google or email login, progress syncs via Firebase
+- 📺 **Abdul Bari Lectures** — Every concept links to the exact YouTube 
+  lecture for that topic
+- 🔗 **Codolio Integration** — Track your DSA question progress on Codolio
+- 🏆 **Gamification** — XP, badges and streaks on the Practice page
 
-Pick a concept from the roadmap
-Watch it animate on the concept page
-Read the theory and Abdul Bari lecture link
-Solve LeetCode problems linked at the bottom
-Mark it done and track your progress
-Practice your own solutions on the Practice Code page
-Built By : Gaurika Rakhesh Reo
-Built solo in 10 days for HackIndia Vibe Coding Hackathon 2026
+---
 
-🌐 Live site: omnidsabyalgoviz.lovable.app
-Source code: github.com/gaurikaRR/array-joy-lab
+## 📄 Pages
+
+- **Homepage** — Progress bar, search, resource cards, YouTube links, 
+  Codolio tracker sheet
+- **Practice Page** — Submit code, get gamified AI feedback
+- **Admin Dashboard** — User stats, progress overview, website stats
+- **Concept Pages** — Visualizer, theory, and linked LeetCode problems
+
+---
+
+## 🚀 How to Use
+
+1. Pick a concept from the roadmap
+2. Watch it animate on the concept page
+3. Read the theory and follow the Abdul Bari lecture link
+4. Solve the LeetCode problems linked at the bottom
+5. Mark it done and track your progress
+6. Practice your own solutions on the Practice Code page
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| React + TanStack Router | Frontend and routing |
+| Tailwind CSS | Styling and responsive design |
+| Framer Motion | Animations and transitions |
+| D3.js | DSA visualizations |
+| Firebase Auth | Google and email login |
+| Firebase Firestore | Cloud progress saving |
+| Claude API | OmniBot AI chatbot |
+| Lovable | Vibe coding and deployment |
+| GitHub | Version control |
+
+---
+
+## 👩‍💻 Built By
+
+**Gaurika Rakhesh Reo** — Built solo in 10 days for 
+**HackIndia Vibe Coding Hackathon 2026**
+
+📂 Source Code: https://github.com/gaurikaRR/array-joy-lab
